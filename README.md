@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/altkennyh2l?template=classic&activity=1&isocalendar=1&tweets=1&languages=1&isocalendar.duration=half-year&tweets.limit=5&tweets.user=altkennyh2l&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FTokyo&config.animated=true)
+![Metrics](https://github.com/altkennyh2l/altkennyh2l/blob/main/github-metrics.svg)
